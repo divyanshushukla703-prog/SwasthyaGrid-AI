@@ -1,0 +1,6 @@
+{
+  "name": "SwasthyaGrid AI - Healthcare Operations Platform",
+  "description": "Centralized AI-powered healthcare operations management platform for Primary Health Centres (PHCs), Community Health Centres (CHCs), and district health administrators in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
